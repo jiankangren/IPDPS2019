@@ -1,0 +1,15 @@
+Fri Apr 13 14:36:59 EDT 2018
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 285 steps
+
+  Problem size = 7077888
+
+  Wall Clock =        0.437322
+
+  Computed solution in outputPar.dat
+
+Application 17208574 resources: utime ~4941s, stime ~255s, Rss ~202524, inblocks ~253774, outblocks ~987867

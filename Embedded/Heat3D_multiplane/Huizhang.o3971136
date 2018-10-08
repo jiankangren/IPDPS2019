@@ -1,0 +1,161 @@
+Mon Apr 16 21:39:05 EDT 2018
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 10001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       11.239605
+
+  Computed solution in outputPar.dat
+
+Application 17224853 resources: utime ~10717s, stime ~248s, Rss ~202520, inblocks ~307805, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_1.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_1.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 20001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       22.408291
+
+  Computed solution in outputPar.dat
+
+Application 17224856 resources: utime ~16640s, stime ~259s, Rss ~202520, inblocks ~307806, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_2.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_2.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 30001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       33.839580
+
+  Computed solution in outputPar.dat
+
+Application 17224858 resources: utime ~22467s, stime ~267s, Rss ~202524, inblocks ~307805, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_3.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_3.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 40001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       44.510065
+
+  Computed solution in outputPar.dat
+
+Application 17224861 resources: utime ~27924s, stime ~275s, Rss ~202520, inblocks ~307807, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_4.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_4.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 50001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       56.081657
+
+  Computed solution in outputPar.dat
+
+Application 17224865 resources: utime ~33734s, stime ~276s, Rss ~202532, inblocks ~307805, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_5.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_5.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 60001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       66.755124
+
+  Computed solution in outputPar.dat
+
+Application 17224868 resources: utime ~40689s, stime ~351s, Rss ~202524, inblocks ~307804, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_6.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_6.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 70001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       78.473732
+
+  Computed solution in outputPar.dat
+
+Application 17224872 resources: utime ~45886s, stime ~294s, Rss ~202520, inblocks ~307807, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_7.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_1.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 80001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       89.250720
+
+  Computed solution in outputPar.dat
+
+Application 17224881 resources: utime ~50825s, stime ~293s, Rss ~202520, inblocks ~307804, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_8.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_8.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 90001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       99.975269
+
+  Computed solution in outputPar.dat
+
+Application 17224889 resources: utime ~56283s, stime ~296s, Rss ~202524, inblocks ~307804, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_9.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_9.dat': No such file or directory
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 100001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =      110.607750
+
+  Computed solution in outputPar.dat
+
+Application 17224900 resources: utime ~61715s, stime ~307s, Rss ~202524, inblocks ~307804, outblocks ~987835
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_10.dat': No such file or directory
+mv: cannot move `outputPar.dat' to `results/outputPar_10.dat': No such file or directory

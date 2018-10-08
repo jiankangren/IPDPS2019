@@ -1,0 +1,268 @@
+Fri Apr 13 10:15:46 EDT 2018
+Full: Number of processes not equal to Number of subdomains
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+Rank 46 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 45 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 51 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 58 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 50 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 56 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 61 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 59 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 53 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the CarRank 19 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 26 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 18 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 22 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 23 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 24 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 17 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 55 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 52 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 57 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 54 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 62 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 49 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 63 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+tesian topology (512)
+Rank 21 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 25 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 31 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 30 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 29 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 28 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 60 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 3 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 10 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 48 [Fri Apr 13 10:15:48 2018] [c5-0c0s3n0] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 20 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 27 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 16 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 11 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 2 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 4 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 13 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 7 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 5 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 8 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 6 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 9 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 1 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 15 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 12 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 14 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 0 [Fri Apr 13 10:15:48 2018] [c0-0c0s1n3] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 37 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 36 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 35 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 34 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 43 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 39 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 47 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 41 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 33 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 32 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 38 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 40 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 44 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+Rank 42 [Fri Apr 13 10:15:48 2018] [c5-0c0s2n1] Fatal error in PMPI_Cart_create: Invalid argument, error stack:
+PMPI_Cart_create(318).....: MPI_Cart_create(MPI_COMM_WORLD, ndims=3, dims=0x7fffffff57f0, periods=0x7fffffff57fc, reorder=0, comm_cart=0x7fffffff58c8) failed
+MPIR_Cart_create_impl(194): 
+MPIR_Cart_create(58)......: Size of the communicator (64) is smaller than the size of the Cartesian topology (512)
+_pmiu_daemon(SIGCHLD): [NID 16901] [c5-0c0s2n1] [Fri Apr 13 10:15:49 2018] PE RANK 45 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 16902] [c5-0c0s3n0] [Fri Apr 13 10:15:49 2018] PE RANK 61 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00003] [c0-0c0s1n1] [Fri Apr 13 10:15:49 2018] PE RANK 30 exit signal Aborted
+[NID 16901] 2018-04-13 10:15:49 Apid 17207830: initiated application termination
+Application 17207830 exit codes: 134
+Application 17207830 exit signals: Killed
+Application 17207830 resources: utime ~0s, stime ~12s, Rss ~10576, inblocks ~27073, outblocks ~68192
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_1.dat': No such file or directory

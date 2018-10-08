@@ -1,0 +1,16 @@
+Fri Apr 13 11:45:40 EDT 2018
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+  Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 285 steps
+
+  Problem size = 7077888
+
+  Wall Clock =        0.359120
+
+  Computed solution in outputPar.dat
+
+Application 17208171 resources: utime ~2960s, stime ~208s, Rss ~141864, inblocks ~239694, outblocks ~773163
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_1.dat': No such file or directory

@@ -1,0 +1,141 @@
+Tue Apr 17 11:15:47 EDT 2018
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 10001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        0.801808
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228131 resources: utime ~1076s, stime ~174s, Rss ~39484, inblocks ~210332, outblocks ~540729
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 20001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        1.582506
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228132 resources: utime ~1468s, stime ~169s, Rss ~39484, inblocks ~210332, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 30001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        2.336666
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228133 resources: utime ~1846s, stime ~175s, Rss ~39484, inblocks ~210333, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 40001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        3.084225
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228134 resources: utime ~2228s, stime ~172s, Rss ~39484, inblocks ~210333, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 50001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        3.844887
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228137 resources: utime ~2620s, stime ~176s, Rss ~39484, inblocks ~210334, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 60001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        5.461499
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228139 resources: utime ~3546s, stime ~177s, Rss ~39484, inblocks ~210333, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 70001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        5.615777
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228141 resources: utime ~3604s, stime ~174s, Rss ~39484, inblocks ~210333, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 80001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        6.152097
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228142 resources: utime ~3812s, stime ~171s, Rss ~39484, inblocks ~210333, outblocks ~540728
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 90001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        6.995930
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228143 resources: utime ~4340s, stime ~183s, Rss ~39484, inblocks ~210333, outblocks ~540729
+
+  Time step too large in 'param' file - Taking convergence criterion
+
+Full:  Time step = 0.000000270140602781
+
+  Convergence = 0.000000000 after 100001 steps
+
+  Problem size = 921600
+
+  Wall Clock =        7.950340
+
+Full:  Computed solution in outputPar.dat
+
+Application 17228145 resources: utime ~4827s, stime ~183s, Rss ~39484, inblocks ~210334, outblocks ~540729

@@ -1,0 +1,20 @@
+
+mpirun -n 1 ./wave_reduced 1 100 641 0.0008 : -n 64 ./wave_full 1 641
+
+
+ ./transfer delta_data.dat delta.dat 40960
+
+/home/qliu//zfp/examples/zfp -a 0.0001 -d -1 40960 -i delta.dat -z scalar.zfp
+
+set sz config first
+/home/qliu/Tao/LossyCompressStudy/SZ/example/testdouble_compress /home/qliu/Tao/LossyCompressStudy/sz.config delta.dat 40960
+cfgFile=/home/qliu/Tao/LossyCompressStudy/sz.config
+echo $(stat -c%s delta.dat)/$(stat -c%s delta.dat.sz) |bc -l
+
+
+mpirun -n 2 ./wave_reduced 2 200 1281 0.0004 : -n 64 ./wave_full 2 1281
+mpirun -n 4 ./wave_reduced 4 400 2561 0.0002: -n 64 ./wave_full 4 2561
+mpirun -n 8 ./wave_reduced 8 800 5121 0.0001 : -n 64 ./wave_full 8 5121
+mpirun -n 16 ./wave_reduced 16 1600 10241 0.00005 : -n 64 ./wave_full 16 10241
+mpirun -n 32 ./wave_reduced 32 3200 20481 0.000025 : -n 64 ./wave_full 32 20481
+

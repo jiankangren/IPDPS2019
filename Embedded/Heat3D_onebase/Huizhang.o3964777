@@ -1,0 +1,60 @@
+Fri Apr 13 10:28:51 EDT 2018
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+Rank 7 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=7, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 48 [Fri Apr 13 10:28:54 2018] [c1-0c1s7n2] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=48, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 11 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=11, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 10 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=10, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 8 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=8, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 9 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=9, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 2 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=2, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 3 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=3, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 6 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=6, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 0 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=0, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 5 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=5, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 1 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=1, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 13 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=13, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 14 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=14, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 12 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=12, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 15 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=15, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+Rank 4 [Fri Apr 13 10:28:54 2018] [c0-0c1s6n3] Fatal error in MPI_Send: Other MPI error, error stack:
+MPI_Send(186): MPI_Send(buf=0x7fffffff58d0, count=4, MPI_INT, dest=4, tag=1, MPI_COMM_WORLD) failed
+MPID_Send(93): DEADLOCK: attempting to send a message to the local process without a prior matching receive
+_pmiu_daemon(SIGCHLD): [NID 18510] [c1-0c1s7n2] [Fri Apr 13 10:28:54 2018] PE RANK 48 exit signal Aborted
+[NID 18510] 2018-04-13 10:28:54 Apid 17207881: initiated application termination
+Application 17207881 exit codes: 134
+Application 17207881 exit signals: Killed
+Application 17207881 resources: utime ~0s, stime ~12s, Rss ~11152, inblocks ~27095, outblocks ~68193
+mv: cannot move `outputPar_delta.dat' to `results/outputPar_delta_1.dat': No such file or directory

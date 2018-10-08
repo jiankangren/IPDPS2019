@@ -1,0 +1,47 @@
+Mon Apr 16 21:53:37 EDT 2018
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 10001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =        9.968638
+
+  Computed solution in outputPar.dat
+
+Application 17224929 resources: utime ~11577s, stime ~329s, Rss ~202520, inblocks ~269892, outblocks ~987867
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 20001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       19.713239
+
+  Computed solution in outputPar.dat
+
+Application 17224930 resources: utime ~15133s, stime ~258s, Rss ~202516, inblocks ~269892, outblocks ~987867
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+
+Full: Time step = 0.000000017120041899
+
+  Convergence = 0.000000000 after 30001 steps
+
+  Problem size = 7077888
+
+  Wall Clock =       29.839173
+
+  Computed solution in outputPar.dat
+
+Application 17224933 resources: utime ~20317s, stime ~266s, Rss ~202520, inblocks ~269893, outblocks ~987867
+
+Full: Time step too large in 'param' file - Taking convergence criterion
+aprun: Apid 17224937: Caught signal Terminated, sending to application
+=>> PBS: job killed: walltime 7230 exceeded limit 7200

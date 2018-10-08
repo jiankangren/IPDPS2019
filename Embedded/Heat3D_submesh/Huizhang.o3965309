@@ -1,0 +1,6 @@
+/var/spool/torque/mom_priv/jobs/3965309.SC: line 9: cd: /lustre/atlas/scratch/huizhang2/csc143/Embedded/Heat3D__submesh: No such file or directory
+Fri Apr 13 14:16:10 EDT 2018
+aprun: file ./explicitPar not found
+aprun: Exiting due to errors. Application aborted
+mv: cannot stat `outputPar_delta.dat': No such file or directory
+mv: cannot stat `outputPar.dat': No such file or directory
