@@ -3,8 +3,8 @@ List="Heat3d	Laplace	Wave	umbrella	Virtual-Sites	astro	fish	sedov-pres	yf17_temp
 #List="Heat3d Laplace Wave Free-energy lysozyme protein-Ligand umbrella Virtual-Sites astro blast2-pres bump_dense dpot eddy_velx_f4 fish sedov-pres yf17_pres yf17_temp"
 
 set -- $List
-err=32
-err1=4
+err=16
+err1=8
 for i
 do
 

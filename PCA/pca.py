@@ -36,18 +36,14 @@ def storeMatrix(filename,m1):
 
 def pca(dataMat, topNfeat=9999999):
    storeMatrix('dataMat.txt',dataMat)
-    # 计算每一列的均值
     meanVals = mean(dataMat, axis=0)
     # print 'meanVals', meanVals
     storeMatrix('mean.txt',meanVals)
-    # 每个向量同时都减去 均值
     meanRemoved = dataMat - meanVals
     # print 'meanRemoved=', meanRemoved
     storeMatrix('meanRemoved.txt',meanRemoved)
-    # cov协方差=[(x1-x均值)*(y1-y均值)+(x2-x均值)*(y2-y均值)+...+(xn-x均值)*(yn-y均值)+]/(n-1)
    covMat = cov(meanRemoved, rowvar=0)
     #storeMatrix('covMat',covMat)
-    # eigVals为特征值， eigVects为特征向量
     eigVals, eigVects = linalg.eig(mat(covMat))
    # eigVals, eigVects = linalg.eig(mat(covMat))
     storeMatrix('eigVals_notsorted.txt',eigVals)

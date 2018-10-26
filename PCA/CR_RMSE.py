@@ -57,8 +57,8 @@ low_base_fsize=statinfo.st_size
 
 
 fp=open("CR_RMSE.txt","w")
-for err in range(2,33):
-    for err1 in range(2,err+1):
+for err in range(5,33):
+    for err1 in range(5,err+1):
         print "*******************"
         print err, err1 
         print "*******************"

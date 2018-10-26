@@ -5,8 +5,8 @@ List="Heat3d	Laplace	Wave	umbrella	Virtual-Sites	astro	fish	sedov-pres	yf17_temp
 start=`date +%s.%N`
 
 set -- $List
-err=32
-err1=4
+err=16
+err1=8
 for i
 do
 
